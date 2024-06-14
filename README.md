@@ -4,6 +4,12 @@
 
 I'm Rajneesh Kumar, a passionate web developer with a diverse skill set ranging from front-end development to back-end management and digital marketing. Below you will find a detailed list of my skills and services.
 
+---
+
+<table>
+  <tr>
+    <td style="vertical-align:top; padding-right: 20px;">
+      
 ## 🛠️ Skills
 
 ### Front-End Development
@@ -24,8 +30,11 @@ I'm Rajneesh Kumar, a passionate web developer with a diverse skill set ranging 
 - Hosting and Domain Integration
 - Custom Email Setup
 - WordPress Development
-- git & github
+- Git & GitHub
 
+    </td>
+    <td style="vertical-align:top; padding-left: 20px; margin-top:-20px;">
+      
 ## 💼 Services
 
 ### Web Development
@@ -44,13 +53,29 @@ I'm Rajneesh Kumar, a passionate web developer with a diverse skill set ranging 
 - Domain Registration and Management
 - Custom Email Setup
 
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 📫 Contact
 
 Feel free to reach out to me on any of the following platforms:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/rajneesh-kumar-215b4a270/)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/developertool45)
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=1DA1F2)](https://twitter.com/your-username)
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:developertool45@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/rajneesh-kumar-215b4a270/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/developertool45">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://twitter.com/your-username">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="mailto:developertool45@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
 Thank you for visiting my profile! Let's connect and create amazing projects together.
