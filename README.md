@@ -1,69 +1,16 @@
-# 💻 Rajneesh Kumar - Web Developer
+# 💻 Rajneesh Kumar 
 
 ### Hi there! 👋
 
-I'm Rajneesh Kumar, a passionate web developer with a diverse skill set ranging from front-end development to back-end management and digital marketing. Below you will find a detailed list of my skills and services.
+I'm Rajneesh Kumar , a passionate full-stack developer skilled in front-end and back-end technologies. Experienced with HTML5, CSS3, JavaScript, React.js, SASS, Node.js, Express.js, MongoDB, and Mongoose. Passionate about creating responsive web applications.
 
----
 
-<table>
-  <tr>
-    <td style="vertical-align:top; padding-right: 20px;">
-      
-## 🛠️ Skills
-
-### Front-End Development
-- HTML5
-- CSS3
-- JavaScript
-- React.js
-- SASS
-
-### Back-End Development
-- Node.js
-- Express.js
-- MongoDB
-- Mongoose
-- SQL
-
-### Other Technical Skills
-- Hosting and Domain Integration
-- Custom Email Setup
-- WordPress Development
-- Git & GitHub
-
-    </td>
-    <td style="vertical-align:top; padding-left: 20px; margin-top:-20px;">
-      
-## 💼 Services
-
-### Web Development
-- Full-stack web applications
-- Responsive website design
-- E-commerce website development
-
-### Digital Marketing
-- YouTube Ads
-- Facebook Ads
-- Google Ads
-- Google Business Account Setup
-
-### Additional Services
-- Website Hosting
-- Domain Registration and Management
-- Custom Email Setup
-
-    </td>
-  </tr>
-</table>
-
----
 
 ## 📫 Contact
 
 Feel free to reach out to me on any of the following platforms:
 
-<p align="center">
+<p >
   <a href="https://www.linkedin.com/in/rajneesh-kumar-215b4a270/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
